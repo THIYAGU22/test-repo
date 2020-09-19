@@ -1,4 +1,5 @@
-for _ in range(int(input())):
+#Reverse Gear : Added by Kavin
+for _ in range(int(input('Enter any range'))):
     f,b,t,d = map(int,input().split())
     d = -d
     calc = 0
